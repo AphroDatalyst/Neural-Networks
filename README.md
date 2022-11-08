@@ -6,3 +6,6 @@ This lectures will explain the differences between the three types of neural net
 hope you enjoy it!
 
 https://www.linkedin.com/in/zohreh-bayramalizadeh/
+
+please upload your assignments here:
+https://quera.org/course/12577/
