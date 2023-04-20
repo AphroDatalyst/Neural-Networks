@@ -3,7 +3,7 @@ Neural networks, also known as artificial neural networks (ANNs) are a subset of
 
 This lectures will explain the differences between the three types of neural networks and cover the basics of Deep Neural Networks; Such as neural networks ,MLP , Hopfield Network, self-organizing-map (SOM) ,Adaline Network ,RBF , Autoencoder, CNN, RNN and LSTM. Also it covers deep learning, learning paradigams and transfer learning too. 
 
-hope you enjoy it!
+hope you enjoy it!!
 
 https://www.linkedin.com/in/zohreh-bayramalizadeh/
 
